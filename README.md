@@ -1,4 +1,19 @@
-# Upload Your Project Folder to the AICA Level 2 Projects Repository
+# 🏦 Bank Statement Analyzer (Portable v1.6.1)
+
+[![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
+[![Streamlit App](https://img.shields.io/badge/framework-Streamlit-FF4B4B.svg)](https://streamlit.io/)
+[![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey.svg)](https://github.com)
+[![Privacy First](https://img.shields.io/badge/privacy-100%25%20Offline-success.svg)](https://github.com)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+**Bank Statement Analyzer** is a fast, intelligent, and privacy-first financial application designed to transform complex bank statements into actionable cash flow intelligence, audit-ready summaries, and live dynamic Excel workbooks.
+
+Available as a **zero-install portable Windows application** and as a **modular Python/Streamlit web dashboard**.
+
+---
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
+</div>
 
 **Target repository:** [aiinicai/AICA-Level-2-Projects](https://github.com/aiinicai/AICA-Level-2-Projects)
 
@@ -8,13 +23,6 @@ Two methods are covered:
 
 1. **Website-only method** — no software installation required.
 2. **Git command-line method** — recommended for complete project folders and projects containing many files.
-
----
-
-## Save your repository as -
-
-# AICA-L2-Batch-(XXX)-Name-Surname
-
 
 ---
 
